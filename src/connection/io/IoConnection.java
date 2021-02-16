@@ -36,7 +36,5 @@ public class IoConnection {
 			}
 			System.out.println(response.toString());
 		}
-		
 	}
-
 }
